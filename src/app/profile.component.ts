@@ -2,6 +2,7 @@
 
 
  @Component({
+    standalone: true,
   selector: 'app-profile',
   template: "<h1>Dymamic Profile Template</h1>",
   styles: [
